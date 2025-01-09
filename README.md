@@ -1,4 +1,9 @@
-## Hi there 👋
+
+I am Suna Vergili Pakgöz
+- I am currently learning on front-end .
+- I am a good team player and focus on solving problems.
+- Also I worked as a Metalurgical and Metarial Eng. for 11 years.Now I am interested in  software app.
+
 
 <!--
 **sunavergili/sunavergili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
